@@ -1,0 +1,8 @@
+export const SET_TASKS = "SET_TASKS";
+export const ADD_TASK = "ADD_TASK";
+export const UPDATE_TASK = "EDIT_TASK";
+export const DELETE_TASK = "DELETE_TASK";
+export const CURRENT_SELECTED_TASK = "CURRENT_SELECTED_TASK";
+
+export const TOGGLE_EDIT_CREATE_MODAL = "TOGGLE_EDIT_CREATE_MODAL";
+export const SET_EDIT_MODE = "SET_EDIT_MODE";

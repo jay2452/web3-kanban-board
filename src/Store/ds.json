@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Task title",
+      "description": "Task description",
+      "dueDate": "2022-08-10",
+      "priority": "HIGH",
+      "state": "TODO",
+      "createUser": "current user"
+    }
+  ]
+}
